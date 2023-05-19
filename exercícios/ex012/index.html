@@ -9,6 +9,15 @@
 <body>
     <h1>Imagem dinámica</h1>
     <p>Tente abrir esse arquivo em dispositivos diferentes ou apenas aumente e diminua o tamanho do seu navegador</p>
-    
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens\imp.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens\imm.png" type="image/png">
+        <img src="imagens/img.png" alt="Imagem flexivel">
+    </picture>
+    <h1>Reproduzindo audio</h1>
+    <p>Vamos aprender a reproduzir audios em HTML5</p>
+    <audio src="mídia\After You - Dan Lebowitz.mp3" controls autoplay></audio>
+    <!--MP3 WAV OGG-->
+
 </body>
 </html>
