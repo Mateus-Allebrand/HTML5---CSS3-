@@ -1,3 +1,3 @@
 # html
-Exercícios executados durante curso CEV.
+Exercícios executados durante curso: CEV.
 
