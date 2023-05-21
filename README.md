@@ -1,2 +1,2 @@
 # html
- exercícios ececutados durante curso de html
+ exercícios executados durante curso de html
